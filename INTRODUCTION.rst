@@ -2,12 +2,13 @@ Introduction
 ================================================================================
 Nous sommes le 28 janvier 1986. Le président américain, Ronald Reagan, s'adresse
 à la nation depuis le bureau ovale pour ce qui devait être le discours sur 
-l'état de l'union. Les premiers mots prononcés par le président furent ceux-ci:
+l'état de l'union. Cependant, les premiers mots prononcés par le président 
+furent ceux-ci:
 
 "Aujourd'hui, je devais m'adresser à vous afin de présenter mon rapport sur
-l'état de l'union, mais les événements qui se sont produit plus tôt 
-m'ont forcé à changer ces plans. Cette journée se doit d'être une journée de 
-deuil et de commémoration."
+l'état de l'union, mais l'événements qui s'est produit plus tôt m'a forcé à
+changer ces plans. Cette journée se doit d'être une journée de deuil et de
+commémoration."
 
 L'événement auquel fait référence le président américain est l'une des plus
 grande tragédie a avoir secouée l'exploration spatiale pendant le 20e siècle.
