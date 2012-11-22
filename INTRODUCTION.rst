@@ -6,7 +6,7 @@ l'état de l'union. Les premiers mots prononcés par le président furent ceux-c
 
 "Aujourd'hui, je devais m'adresser à vous afin de présenter mon rapport sur
 l'état de l'union, mais les événements qui se sont produit plus tôt 
-m'ont forcé à changer ces plans. Cette journée est une journée de deuille et de
+m'ont forcé à changer ces plans. Cette journée se doit d'être une journée de deuille et de
 commémoration."
 
 L'événement auquel fait référence le président américain est l'une des plus
