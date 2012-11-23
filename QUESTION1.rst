@@ -51,16 +51,38 @@ travail de réflexion éthique.
 Le concept de causalité chez Aristote
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Mentionnons d'emblée qu'il y a une chose qui rend la compréhension du concept de
-la causalité chez Aristote difficile à comprendre: celle-ci n'a presque rien
-en comment avec notre définition moderne de la causalité. Tout le monde peut
+la causalité chez Aristote difficile: celle-ci n'a presque rien
+en commun avec notre définition moderne de la causalité. Tout le monde peut
 donner une définition de la causalité comme on la comprend aujourd'hui sans 
-problème. Votre définition est vraisemblablement semblable à la mienne qui va
-comme suit:
+problème. Votre définition intuitive est vraisemblablement semblable à la mienne
+qui va comme suit:
 
 "on définit comme causale la relation entre deux évévements, la cause et 
 l'effet, de telle sorte que la cause est réputé être à l'origine de l'effet
 et qu'il est reconnue que la cause s'est produite avant l'effet."
 
-Si on veut maintenant comprendre la causalité
+Si on veut maintenant comprendre la causalité chez Aristote, il serait peut-être
+mieux de dire que ce concept aristotélicien se rapproche plus de notre
+concept moderne d'une "explication". En effet, la causalité chez Aristote tente
+de répondre à la question du "pourquoi" des choses.
+
+Aristote stipule que la comprenhésion d'une chose et des changements qui s'y 
+appliquent, son explication, nous vient de 4 causes essentielles que l'on décrit
+maintenant:
+
+1. La cause matérielle: qui se rapporte à l'essence constituante d'un objet. Par
+   exemple, la cause matérielle d'un vêtement est la fibre du tissus.
+
+2. La cause formelle: qui se rapporte à ce que la matérialisation de l'objet 
+   représente. Par exemple, la cause formelle d'une statue peut être le buste
+   d'une femme ou d'une homme.
+
+3. la cause efficiente: qui se rapport à ce qui amène la matière à prendre
+   sa cause formelle. Dans le cas d'une status, il s'agit de l'art de l'artisan.
+
+4. la finalité: qui se rapporte à la raison d'être de l'objet. Par exemple,
+   la finalité d'un germe de plante est une plante adulte.
+
+Maintenant que nous avons les outils en main
 
 
