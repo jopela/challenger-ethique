@@ -34,11 +34,11 @@ pilotage heurta l'océan pendant sa descente ballistique.
 
 L'analyse des faits qui ont menés à cette tragédie montre qu'un des plus 
 important facteur ayant mené à l'accident est le processus de décision des
-gestionnaires de la NASA. En effet, ceux-ci ont ignoré ou minimisé l'importance
-des inquiétudes des ingénieurs recommandant un report du lancement en raison
-de la basse température prévu le jour du décollage. Comment ces gestionnaires
-ont-ils pu ignorer de tel avertissements ? Pourquoi le lancement a pu avoir
-lieu même si le risque de tragédit était connu ?
+gestionnaires de la NASA et de Morton-Thiokol. En effet, ceux-ci ont ignoré ou
+minimisé l'importance des inquiétudes des ingénieurs recommandant un report du
+lancement en raison de la basse température prévu le jour du décollage. Comment
+ces gestionnaires ont-ils pu ignorer de tel avertissements ? Pourquoi le lancement
+a pu avoir lieu même si le risque de tragédit était connu ?
 
 Dans le cadre de ce travail, nous allons analyser l'incident de la navette 
 challenger et tenter de formuler des recommandations en ce qui a trait à la 
