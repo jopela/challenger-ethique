@@ -12,13 +12,13 @@ Afin de répondre à la question, nous allons d'abord discuter de la pertinence
 d'Aristote dans une telle situation. Nous allons ensuite définir et articuler 
 le concept de la causalité chez Aristote et finalement, nous allons analyser
 du point de vue de la théorie aristotélicienne de la causalité les événements
-de la conférence téléhponique qui ont précédé le désastre de challenger.
+de la conférence téléphonique qui ont précédé le désastre de challenger.
 
 La philosophie d'Aristote et sa pertinence contemporaine
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Aristote est un philosophe grec de l'antiquité qui peut surement être reconnue
-comment étant celui ayant eu la plus profonde influence sur tout le courant de 
-la philosophie occidentale. Colossale par son étendu sur une foule de sujets 
+comment étant celui qui a eu la plus profonde influence sur le courant de 
+philosophique occidental. Colossale par son étendu sur une foule de sujets, 
 allant de la métaphysique à la biologie, l'oeuvre d'Aristote est particulière 
 de par le fait qu'elle établie toujours un "système" à l'intérieur duquel sont
 étudiés les phénomènes scrutés.
@@ -31,22 +31,22 @@ dans la résolution des dilemmes éthiques en montrant comment sa théorie de la
 causalité permet de bien segmenter les étapes dans lesquels l'ingénieur doit
 jouer chacun de ces deux rôles: celui de technicien et celui de citoyen. 
 Jean-François Malherbe décrit la démarche technique de l'ingénieur comme
-s'inscrivant à 3 concepts de la théorie de la causalité d'Aristote: la
-matière, la forme et le travail. Nous présenterons en détail ces concepts de la
-causalité mais pour le moment, il suffit de comprendre que le rôle d'un
-technicien est circonscrit à ces trois concepts. Aristote propose aussi une
-dernière forme de causalité; la finalité. Alors que les 3 premiers concepts
-nous permettent d'analyser le travail d'un ingénieur du point de vue matériel
-et technique, la finalité nous demandes de nous posés des questions sur la
-raison d'être d'un tel travail. Pourquoi chercher, par exemple, à optimiser le
-processus de combustion dans le moteur à explosion d'une voiture? Qu'elle en 
-est la finalité? C'est cette finalité qui, selon Malherbe, est le domaine de
-l'ingénieur qui est appelé à jouer un rôle de citoyen. Si sont travail 
-d'optimisation sert à fabriquer des véhicules militaires, l'ingénieur peut
-faire face à un dilemme éthique. Qu'il dénonce l'utilisation de son travail ou
-qu'il s'en fasse complice, le choix lui revient. Le fait demeure quand même que
-c'est en regardant la finalité des choses que l'ingénieur peut amorcer son
-travail de réflexion éthique.
+étant lié à 3 concepts, que l'on nomme causes, de la théorie d'Aristote: la
+matière, la forme et le travail (cause efficiente).  Nous présenterons en détail
+ces concepts de la causalité mais pour le moment, il suffit de comprendre que le
+rôle d'un technicien est circonscrit à ces trois concepts. Aristote propose 
+aussi une dernière forme de causalité; la cause finale. Alors que les 3 premiers
+concepts nous permettent d'analyser le travail d'un ingénieur du point de vue 
+matériel et technique, la finalité nous demande de nous poser des questions sur
+la raison d'être d'un tel travail. Pourquoi chercher, par exemple à creer un 
+automate industriel qui permet de remplacer le travail d'un être humain dans
+une usine? Qu'elle en est la finalité? C'est cette finalité qui, selon Malherbe,
+est le domaine de l'ingénieur qui est appelé à jouer un rôle de citoyen. Si son 
+travail sert à remplacer des être humain sans considérer leur bien-être,
+l'ingénieur peut faire face à un dilemme éthique. Qu'il dénonce l'utilisation de
+son travail ou qu'il s'en fasse complice, le choix lui revient. Le fait demeure
+quand même que; c'est en regardant la finalité des choses que l'ingénieur peut 
+amorcer son travail de réflexion éthique.
 
 Le concept de causalité chez Aristote
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -54,7 +54,7 @@ Mentionnons d'emblée qu'il y a une chose qui rend la compréhension du concept 
 la causalité chez Aristote difficile: celle-ci n'a presque rien
 en commun avec notre définition moderne de la causalité. Tout le monde peut
 donner une définition de la causalité comme on la comprend aujourd'hui sans 
-problème. Votre définition intuitive est vraisemblablement semblable à la mienne
+problème. Votre définition intuitive est vraisemblablement similaire à la mienne
 qui va comme suit:
 
 "on définit comme causale la relation entre deux évévements, la cause et 
@@ -67,8 +67,7 @@ concept moderne d'une "explication". En effet, la causalité chez Aristote tente
 de répondre à la question du "pourquoi" des choses.
 
 Aristote stipule que la comprenhésion d'une chose et des changements qui s'y 
-appliquent, son explication, nous vient de 4 causes essentielles que l'on décrit
-maintenant:
+rapportent nous vient de 4 causes essentielles: 
 
 1. La cause matérielle: qui se rapporte à l'essence constituante d'un objet. Par
    exemple, la cause matérielle d'un vêtement est la fibre du tissus.
@@ -83,6 +82,9 @@ maintenant:
 4. la finalité: qui se rapporte à la raison d'être de l'objet. Par exemple,
    la finalité d'un germe de plante est une plante adulte.
 
-Maintenant que nous avons les outils en main
+Maintenant que nous avons défini les quatres causes fondamentale pour Aristote,
+nous allons fixer les idées en revisitant un exemple du domaine du génie.  
+
+
 
 
